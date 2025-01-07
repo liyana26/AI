@@ -6,7 +6,6 @@ class SearchProblem:
     This class outlines the structure of a search problem, but doesn't implement
     any of the methods (in object-oriented terminology: an abstract class).
     """
-
     def getStartState(self):
         """
         Returns the start state for the search problem.
